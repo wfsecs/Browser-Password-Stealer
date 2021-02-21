@@ -1,3 +1,0 @@
-pypiwin32
-dropbox
-pycryptodome
